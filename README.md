@@ -1,4 +1,4 @@
-# Sale-in-Python-and-My-SQL
+# Product-Sales-in-Python-and-My-SQL
 
 Solve both in Python and SQL :
 
